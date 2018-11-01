@@ -18,10 +18,10 @@ legend {
 
 }
 
-#Entered, #Email {
+.entered, .email {
     width: 250px;
 }
 
-#Age {
+.age {
     width: 50px;
 }

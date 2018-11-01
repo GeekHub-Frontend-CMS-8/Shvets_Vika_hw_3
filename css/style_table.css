@@ -14,21 +14,21 @@ td {
     text-align: left;
 }
 
-#first_table {
+.first_table {
     width: 100%;
 }
 
-#second_table, #third_table {
+.second_table, .third_table {
     width: 50%;
 }
 
-#third_table {
+.third_table {
     border: groove;
     border-collapse: collapse;
 
 }
 
-#second_table td:nth-child(1) {
+.second_table td:nth-child(1) {
     font-weight: bold;
 }
 	
